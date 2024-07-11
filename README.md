@@ -1,5 +1,7 @@
 # Backend-Development-Guide
-## 네트워크
+
+# 네트워크
+<hr>
 
 <details>
   <summary>웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일</summary>
@@ -17,14 +19,27 @@ https://velog.io/@lee41180612/TCP-3-4-way-handshake
 </details>
 
 <details>
-  <summary></summary>
-
+  <summary>http와 https의 차이점</summary>
+https://velog.io/@lee41180612/HTTP%EC%99%80-HTTPS%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
   <summary></summary>
 
 </details>
+
+# DB
+<hr>
+
+
+# 언어
+<hr>
+
+## Java
+
+
+# 프레임워크
+<hr>
 
 ## Spring
 <details>
@@ -59,9 +74,9 @@ https://velog.io/@lee41180612/IOC%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%97%AD%
 https://velog.io/@lee41180612/%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EB%9E%80
 </details>
 
+<hr>
 
-
-## 서버
+# 서버관련
 
 <details>
   <summary>프로젝트 AWS</summary>
