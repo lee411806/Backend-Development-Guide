@@ -1,7 +1,7 @@
 # Backend-Development-Guide
 
 # 네트워크
-<hr>
+
 
 <details>
   <summary>웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일</summary>
@@ -29,17 +29,17 @@ https://velog.io/@lee41180612/HTTP%EC%99%80-HTTPS%EC%B0%A8%EC%9D%B4
 </details>
 
 # DB
-<hr>
+
 
 
 # 언어
-<hr>
+
 
 ## Java
 
 
 # 프레임워크
-<hr>
+
 
 ## Spring
 <details>
