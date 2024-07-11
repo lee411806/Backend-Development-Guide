@@ -1,6 +1,6 @@
 # Backend-Development-Guide
 
-# 네트워크
+## 네트워크
 
 
 <details>
@@ -28,20 +28,20 @@ https://velog.io/@lee41180612/HTTP%EC%99%80-HTTPS%EC%B0%A8%EC%9D%B4
 
 </details>
 
-# DB
+## DB
 
 
 
-# 언어
+## 언어
 
 
-## Java
+### Java
 
 
-# 프레임워크
+## 프레임워크
 
 
-## Spring
+### Spring
 <details>
   <summary>스프링 빈(Bean)의 스코프</summary>
 (https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88Bean%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84Scope)
@@ -74,9 +74,9 @@ https://velog.io/@lee41180612/IOC%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%97%AD%
 https://velog.io/@lee41180612/%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EB%9E%80
 </details>
 
-<hr>
 
-# 서버관련
+
+## 서버관련
 
 <details>
   <summary>프로젝트 AWS</summary>
