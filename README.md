@@ -36,7 +36,7 @@ https://velog.io/@lee41180612/HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-GET-POST-%EC%B0%A
 
 <details>
   <summary>Restful이란</summary>
-
+https://velog.io/@lee41180612/Restful-REST-API
 </details>
 
 <details>
@@ -46,7 +46,7 @@ https://velog.io/@lee41180612/HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-GET-POST-%EC%B0%A
 
 <details>
   <summary>CORS란?</summary>
-
+https://velog.io/@lee41180612/CORSCross-Origin-Resource-Sharing-%EB%9E%80
 </details>
 
 <details>
