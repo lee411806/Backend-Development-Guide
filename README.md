@@ -41,7 +41,7 @@ https://velog.io/@lee41180612/Restful-REST-API
 
 <details>
   <summary>HTTPS와 SSL Handshake</summary>
-
+https://velog.io/@lee41180612/HTTS%EC%99%80-SSL
 </details>
 
 <details>
@@ -51,7 +51,7 @@ https://velog.io/@lee41180612/CORSCross-Origin-Resource-Sharing-%EB%9E%80
 
 <details>
   <summary>OSI 7계층과 그 존재 이유, TCP/IP 4계층</summary>
-
+https://velog.io/@lee41180612/OSI-7%EA%B3%84%EC%B8%B5%EA%B3%BC-%EA%B7%B8-%EC%A1%B4%EC%9E%AC%EC%9D%B4%EC%9C%A0-TCPIP-4%EA%B3%84%EC%B8%B5
 </details>
 
 <details>
