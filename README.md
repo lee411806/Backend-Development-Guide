@@ -28,16 +28,41 @@ https://velog.io/@lee41180612/HTTP%EC%99%80-HTTPS%EC%B0%A8%EC%9D%B4
 https://velog.io/@lee41180612/port-%EC%9D%B4%ED%95%B4
 </details>
 
-<details>
-  <summary></summary>
-
-</details>
 
 <details>
   <summary>HTTP메서드 ,GET POST 차이점</summary>
 https://velog.io/@lee41180612/HTTP-%EB%A9%94%EC%84%9C%EB%93%9C-GET-POST-%EC%B0%A8%EC%9D%B4%EC%A0%90
 </details>
 
+<details>
+  <summary>Restful이란</summary>
+
+</details>
+
+<details>
+  <summary>HTTPS와 SSL Handshake</summary>
+
+</details>
+
+<details>
+  <summary>CORS란?</summary>
+
+</details>
+
+<details>
+  <summary>OSI 7계층과 그 존재 이유, TCP/IP 4계층</summary>
+
+</details>
+
+<details>
+  <summary>웹 서버 소프트웨어(Apache,Nginx)는 OSI 7계층 중 어디서 작동하는지</summary>
+
+</details>
+
+<details>
+  <summary>웹 서버 소프트웨어(Apache,Nginx)의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지</summary>
+
+</details>
 
 ## DB
 
