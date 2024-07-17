@@ -66,6 +66,11 @@ https://velog.io/@lee41180612/%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%86%8C%ED%94%84%ED
 
 ## OS
 <details>
+  <summary>컴퓨터 하드웨어(기본 장비들 정리) </summary>
+
+</details>
+
+<details>
   <summary>프로세스와 스레드의 차이</summary>
 
 </details>
