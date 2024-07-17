@@ -64,21 +64,73 @@ https://velog.io/@lee41180612/%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%86%8C%ED%94%84%ED
 https://velog.io/@lee41180612/%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4Apache-Nginx%EC%9D%98-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%9D%BC%EC%9A%B0%ED%8C%85-%EA%B8%B0%EB%8A%A5%EC%9D%80-OSI-7%EA%B3%84%EC%B8%B5-%EC%A4%91-%EC%96%B4%EB%94%94%EC%84%9C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EC%A7%80
 </details>
 
+## OS
+<details>
+  <summary>프로세스와 스레드의 차이</summary>
+
+</details>
+
+<details>
+  <summary>컨텍스트 스위칭</summary>
+
+</details>
+
+<details>
+  <summary>동기와 비동기의 차이(블로킹, 넌블로킹) / 장단점</summary>
+
+</details>
+
+<details>
+  <summary>멀티스레드 프로그래밍</summary>
+
+</details>
+
+<details>
+  <summary>Thread-safe 하다는 의미와 설계하는 법</summary>
+
+</details>
+
+<details>
+  <summary>프로세스 동기화</summary>
+
+</details>
+
+<details>
+  <summary>교착상태와 기아상태의 해결방법.</summary>
+
+</details>
+
+<details>
+  <summary>세마포어와 뮤텍스의 차이</summary>
+
+</details>
+
+<details>
+  <summary>가상 메모리</summary>
+
+</details>
+
+<details>
+  <summary>캐시의 지역성</summary>
+
+</details>
+
+
+
+
 ## 알고리즘
 <details>
   <summary>시간 복잡도</summary>
 https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 </details>
 
-<details>
-  <summary></summary>
-
-</details>
 
 <details>
   <summary></summary>
 
 </details>
+
+
 
 ## DB
 
