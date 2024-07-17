@@ -56,12 +56,12 @@ https://velog.io/@lee41180612/OSI-7%EA%B3%84%EC%B8%B5%EA%B3%BC-%EA%B7%B8-%EC%A1%
 
 <details>
   <summary>웹 서버 소프트웨어(Apache,Nginx)는 OSI 7계층 중 어디서 작동하는지</summary>
-
+https://velog.io/@lee41180612/%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4Apache-Nginx%EB%8A%94-OSI-7%EA%B3%84%EC%B8%B5-%EC%A4%91-%EC%96%B4%EB%94%94%EC%84%9C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EC%A7%80
 </details>
 
 <details>
   <summary>웹 서버 소프트웨어(Apache,Nginx)의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지</summary>
-
+https://velog.io/@lee41180612/%EC%9B%B9-%EC%84%9C%EB%B2%84-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4Apache-Nginx%EC%9D%98-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%9D%BC%EC%9A%B0%ED%8C%85-%EA%B8%B0%EB%8A%A5%EC%9D%80-OSI-7%EA%B3%84%EC%B8%B5-%EC%A4%91-%EC%96%B4%EB%94%94%EC%84%9C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EC%A7%80
 </details>
 
 ## 알고리즘
