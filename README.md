@@ -78,7 +78,7 @@ https://velog.io/@lee41180612/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%
 
 <details>
   <summary>동기와 비동기의 차이(블로킹, 넌블로킹) / 장단점</summary>
-
+https://velog.io/@lee41180612/AJAX
 </details>
 
 <details>
