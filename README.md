@@ -309,5 +309,5 @@ https://velog.io/@lee41180612/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-AWS
 
 <details>
   <summary>대규모 트래픽을 수용하기 위한 방법</summary>
-[https://velog.io/@lee41180612/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-AWS](https://velog.io/@lee41180612/%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EC%88%98%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95)
+https://velog.io/@lee41180612/%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EC%88%98%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95
 </details>
