@@ -78,12 +78,16 @@ https://velog.io/@lee41180612/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%
 
 <details>
   <summary>동기와 비동기의 차이(블로킹, 넌블로킹) / 장단점</summary>
-https://velog.io/@lee41180612/AJAX
+<p>동기, 비동기 정의</p>
+  https://velog.io/@lee41180612/AJAX
+
+<p>동기 비동기, 블로킹 넌블로킹 케이스 비교 장단점</p>
+https://velog.io/@lee41180612/%EB%B8%94%EB%A1%9C%ED%82%B9Blocking-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9Non-blocking-%EB%8F%99%EA%B8%B0Synchronous-%EB%B9%84%EB%8F%99%EA%B8%B0Asynchronous
 </details>
 
 <details>
   <summary>멀티스레드 프로그래밍</summary>
-
+https://velog.io/@lee41180612/%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DMultithreading
 </details>
 
 <details>
