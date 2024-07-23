@@ -92,7 +92,7 @@ https://velog.io/@lee41180612/%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C-%ED%
 
 <details>
   <summary>Thread-safe 하다는 의미와 설계하는 법</summary>
-
+https://velog.io/@lee41180612/thead-safe-%ED%95%98%EB%8B%A4%EB%8A%94-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%84%A4%EA%B3%84-%EB%B2%95
 </details>
 
 <details>
