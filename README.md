@@ -131,13 +131,76 @@ https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 
 
 <details>
-  <summary></summary>
+  <summary>배열과 Linked List의 차이</summary>
+
+</details>
+
+<details>
+  <summary>List와 Set의 차이</summary>
+
+</details>
+
+## DB
+<details>
+  <summary>데이터베이스에서 인덱스를 사용하는 이유와 장단점</summary>
+
+</details>
+
+<details>
+  <summary>SQL</summary>
+
+</details>
+
+<details>
+  <summary>트랜잭션</summary>
+
+</details>
+
+<details>
+  <summary>ACID</summary>
+
+</details>
+
+<details>
+  <summary>트랜잭션 격리 수준(Transaction Isolation Levels)</summary>
+
+</details>
+
+<details>
+  <summary>정규화</summary>
+
+</details>
+
+<details>
+  <summary>Join에 대해</summary>
+
+</details>
+
+<details>
+  <summary>RDBMS vs NOSQL</summary>
+
+</details>
+
+<details>
+  <summary>Redis 와 Memacached의 차이</summary>
 
 </details>
 
 
+<details>
+  <summary>MongoDB</summary>
 
-## DB
+</details>
+
+<details>
+  <summary>CAP 이론과, Eventual Consistency에 대해</summary>
+
+</details>
+
+<details>
+  <summary>Elastic Search란?</summary>
+
+</details>
 
 
 
