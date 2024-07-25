@@ -143,22 +143,12 @@ https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 ## DB
 <details>
   <summary>데이터베이스에서 인덱스를 사용하는 이유와 장단점</summary>
-
+https://velog.io/@lee41180612/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9E%A5%EB%8B%A8%EC%A0%90
 </details>
 
 <details>
-  <summary>SQL</summary>
-
-</details>
-
-<details>
-  <summary>트랜잭션</summary>
-
-</details>
-
-<details>
-  <summary>ACID</summary>
-
+  <summary>트랜잭션,ACID</summary>
+https://velog.io/@lee41180612/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction
 </details>
 
 <details>
@@ -202,7 +192,10 @@ https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 
 </details>
 
+<details>
+  <summary>SQL 복습</summary>
 
+</details>
 
 ## 언어
 
