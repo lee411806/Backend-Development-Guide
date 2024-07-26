@@ -153,7 +153,7 @@ https://velog.io/@lee41180612/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction
 
 <details>
   <summary>트랜잭션 격리 수준(Transaction Isolation Levels)</summary>
-
+https://velog.io/@lee41180612/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80Transaction-Isolation-Levels
 </details>
 
 <details>
@@ -168,7 +168,7 @@ https://velog.io/@lee41180612/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction
 
 <details>
   <summary>RDBMS vs NOSQL</summary>
-
+https://velog.io/@lee41180612/RDBMS-vs-NOSQL
 </details>
 
 <details>
