@@ -173,13 +173,13 @@ https://velog.io/@lee41180612/RDBMS-vs-NOSQL
 
 <details>
   <summary>Redis 와 Memacached의 차이</summary>
-
+https://velog.io/@lee41180612/Redis-%EC%99%80-Memacached%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
 
 <details>
   <summary>MongoDB</summary>
-
+https://velog.io/@lee41180612/MongoDB-%EB%AA%85%EB%A0%B9%EC%96%B4
 </details>
 
 <details>
