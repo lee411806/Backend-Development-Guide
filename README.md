@@ -102,7 +102,7 @@ https://velog.io/@lee41180612/thead-safe-%ED%95%98%EB%8B%A4%EB%8A%94-%EC%9D%98%E
 
 <details>
   <summary>교착상태와 기아상태의 해결방법.</summary>
-
+정처기책 참고 교착상대)
 </details>
 
 <details>
