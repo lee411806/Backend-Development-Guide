@@ -326,26 +326,20 @@ https://velog.io/@lee41180612/JDKJREJVM
 
 
 ### Spring
+
 <details>
-  <summary>스프링 빈(Bean)의 스코프</summary>
-(https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88Bean%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84Scope)
+  <summary>Spring DI/IoC는 어떻게 동작하나? -- </summary>
+
 </details>
 
-
 <details>
-  <summary>Spring Bean 이란?, spring bean 생성과정</summary>
+  <summary>Spring Bean 이란?, Spring Bean 생성과정</summary>
 https://velog.io/@lee41180612/Spring-Bean-%EC%9D%B4%EB%9E%80
 </details>
 
 <details>
-  <summary>Spring AOP</summary>
-[https://velog.io/@lee41180612/Spring-Bean-%EC%9D%B4%EB%9E%80](https://velog.io/@lee41180612/Spring-AOP)
-</details>
-
-
-<details>
-  <summary>Spring 컨테이너 내장객체</summary>
-https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%9D%98-%EB%B2%94%EC%9C%84Scope
+  <summary>스프링 빈(Bean)의 스코프</summary>
+(https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88Bean%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84Scope)
 </details>
 
 <details>
@@ -354,8 +348,44 @@ https://velog.io/@lee41180612/IOC%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%97%AD%
 </details>
 
 <details>
+  <summary> DI 종류는 어떤것이 있고, 이들의 차이는 무엇인가? </summary>
+
+</details>
+
+<details>
+  <summary>Autowiring 과정에 대해 설명 </summary>
+
+</details>
+
+<details>
+  <summary> Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명 </summary>
+
+</details>
+
+<details>
   <summary>프론트 컨트롤러란?</summary>
 https://velog.io/@lee41180612/%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EB%9E%80
+</details>
+
+<details>
+  <summary>Servlet Filter와 Spring Interceptor의 차이는 무엇인가? </summary>
+
+</details>
+
+<details>
+  <summary> Spring에서 CORS 에러를 해결하기 위한 방법을 설명 </summary>
+
+</details>
+
+<details>
+  <summary>Spring 컨테이너 내장객체</summary>
+https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%9D%98-%EB%B2%94%EC%9C%84Scope
+</details>
+
+
+<details>
+  <summary>Spring AOP</summary>
+[https://velog.io/@lee41180612/Spring-Bean-%EC%9D%B4%EB%9E%80](https://velog.io/@lee41180612/Spring-AOP)
 </details>
 
 <details>
