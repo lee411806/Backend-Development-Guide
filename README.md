@@ -329,7 +329,7 @@ https://velog.io/@lee41180612/JDKJREJVM
 
 <details>
   <summary>Spring DI/IoC는 어떻게 동작하나? -- </summary>
-
+https://velog.io/@lee41180612/Spring-DIIoC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%82%98-DI%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
@@ -349,12 +349,14 @@ https://velog.io/@lee41180612/IOC%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%97%AD%
 
 <details>
   <summary> DI 종류는 어떤것이 있고, 이들의 차이는 무엇인가? </summary>
-
+https://velog.io/@lee41180612/Spring-DIIoC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%82%98-DI%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
   <summary>Autowiring 과정에 대해 설명 </summary>
-
+<p>빈의 생성과정이 autowiring과정과 밀접하게 연결되어있다. </p>
+  <p>autowiring 과정)
+  ioc가 빈을 생성-> @autowired 붙은 곳에 ioc컨테이너에 있는 빈을 찾아 의존성 주입-> 초기화 -> 빈관리 </p>
 </details>
 
 <details>
