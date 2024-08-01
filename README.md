@@ -97,12 +97,12 @@ https://velog.io/@lee41180612/thead-safe-%ED%95%98%EB%8B%A4%EB%8A%94-%EC%9D%98%E
 
 <details>
   <summary>프로세스 동기화</summary>
-
+https://velog.io/@lee41180612/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94Process-Synchronization
 </details>
 
 <details>
   <summary>교착상태와 기아상태의 해결방법.</summary>
-정처기책 참고 교착상대)
+https://velog.io/@lee41180612/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C%EC%99%80-%EA%B8%B0%EC%95%84-%EC%83%81%ED%83%9C%EC%9D%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95
 </details>
 
 <details>
