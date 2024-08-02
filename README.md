@@ -361,7 +361,7 @@ https://velog.io/@lee41180612/Spring-DIIoC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-
 
 <details>
   <summary> Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명 </summary>
-
+https://velog.io/@lee41180612/Spring-Web-MVC%EC%9D%98-Dispatcher-Servlet%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC
 </details>
 
 <details>
