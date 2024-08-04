@@ -395,6 +395,16 @@ https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%9D%98-%EB
 https://velog.io/@lee41180612/Session
 </details>
 
+<details>
+  <summary>Bean/Component 어노테이션에 대한 설명과, 둘의 차이점</summary>
+https://velog.io/@lee41180612/BeanComponent-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85%EA%B3%BC-%EB%91%98%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90
+</details>
+
+<details>
+  <summary>POJO란 무엇? Spring Framework에서 POJO는 무엇이 되나?</summary>
+https://velog.io/@lee41180612/POJO%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-Spring-Framework%EC%97%90%EC%84%9C-POJO%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%90%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C
+</details>
+
 ## 서버관련
 
 <details>
