@@ -405,6 +405,19 @@ https://velog.io/@lee41180612/BeanComponent-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4
 https://velog.io/@lee41180612/POJO%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-Spring-Framework%EC%97%90%EC%84%9C-POJO%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%90%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C
 </details>
 
+<details>
+  <summary>Spring Web MVC에서 요청 마다 Thread가 생성되어 Controller를 통해 요청을 수행할텐데, 어떻게 1개의 Controller만 생성될 수 있을까?</summary>
+https://velog.io/@lee41180612/Spring-Web-MVC%EC%97%90%EC%84%9C-%EC%9A%94%EC%B2%AD-%EB%A7%88%EB%8B%A4-Thread%EA%B0%80-%EC%83%9D%EC%84%B1%EB%90%98%EC%96%B4-Controller%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%9A%94%EC%B2%AD%EC%9D%84-%EC%88%98%ED%96%89%ED%95%A0%ED%85%90%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-1%EA%B0%9C%EC%9D%98-Controller%EB%A7%8C-%EC%83%9D%EC%84%B1%EB%90%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C
+</details>
+
+
+<details>
+  <summary>Spring WEB MVC의 근간에는 Java Servlet 이 있다. Spring 은 Servlet을 어떻게 구성해서 이를 구현했나?</summary>
+https://velog.io/@lee41180612/spring-WEB-MVC%EC%9D%98-%EA%B7%BC%EA%B0%84%EC%97%90%EB%8A%94-Java-Servlet-%EC%9E%88%EB%8A%94%EB%8D%B0-Spring-%EC%9D%80-Servlet%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%ED%95%B4%EC%84%9C-%EC%9D%B4%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%96%88%EB%82%98
+</details>
+
+
+
 ## 서버관련
 
 <details>
