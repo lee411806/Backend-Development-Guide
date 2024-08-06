@@ -194,7 +194,7 @@ https://velog.io/@lee41180612/MongoDB-%EB%AA%85%EB%A0%B9%EC%96%B4
 
 <details>
   <summary>SQL 복습</summary>
-
+https://velog.io/@lee41180612/SQL-SQL-%EC%BD%94%ED%85%8C
 </details>
 
 ## 언어
