@@ -416,6 +416,21 @@ https://velog.io/@lee41180612/Spring-Web-MVC%EC%97%90%EC%84%9C-%EC%9A%94%EC%B2%A
 https://velog.io/@lee41180612/spring-WEB-MVC%EC%9D%98-%EA%B7%BC%EA%B0%84%EC%97%90%EB%8A%94-Java-Servlet-%EC%9E%88%EB%8A%94%EB%8D%B0-Spring-%EC%9D%80-Servlet%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%ED%95%B4%EC%84%9C-%EC%9D%B4%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%96%88%EB%82%98
 </details>
 
+<details>
+  <summary>Filter는 Servlet의 스펙이고, Interceptor는 Spring MVC의 스펙이다. Spring Application에서 Filter와 Interceptor를 통해 예외를 처리할 경우 어떻게 해야 하나?</summary>
+https://velog.io/@lee41180612/Filter-Interceptor-%EC%8B%9C%EC%A0%90-%EA%B7%B8%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%EC%B0%A8%EC%9D%B4
+</details>
+
+<details>
+  <summary>Spring Application을 구동할 때 메서드를 실행시키는 방법에 대해 설명</summary>
+https://velog.io/@lee41180612/Spring-Application%EC%9D%84-%EA%B5%AC%EB%8F%99%ED%95%A0-%EB%95%8C-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95
+</details>
+
+
+<details>
+  <summary>의존성과 설정값을 생성자 인자로 주입해야 하는 이유에 대해 설명</summary>
+https://velog.io/@lee41180612/%EC%9D%98%EC%A1%B4%EC%84%B1%EA%B3%BC-%EC%84%A4%EC%A0%95-%EA%B0%92%EC%9D%84-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%9D%B8%EC%9E%90%EB%A1%9C-%EC%A3%BC%EC%9E%85%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85
+</details>
 
 
 ## 서버관련
