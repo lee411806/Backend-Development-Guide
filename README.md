@@ -449,6 +449,16 @@ https://velog.io/@lee41180612/%EC%9D%98%EC%A1%B4%EC%84%B1%EA%B3%BC-%EC%84%A4%EC%
   https://velog.io/@lee41180612/JPA-Propagation-%EC%A0%84%ED%8C%8C%EB%8B%A8%EA%B3%84
 </details>
 
+<details>
+  <summary>JPA를 쓰는 이유</summary>
+ https://velog.io/@lee41180612/JPA%EB%A5%BC-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0
+</details>
+
+<details>
+  <summary>N + 1 문제는 무엇이고 이것이 발생하는 이유와 이를 해결하는 방법</summary>
+https://velog.io/@lee41180612/N-1-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9D%B4%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+</details>
+
 ## 서버관련
 
 <details>
