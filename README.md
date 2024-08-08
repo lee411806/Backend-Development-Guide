@@ -432,6 +432,22 @@ https://velog.io/@lee41180612/Spring-Application%EC%9D%84-%EA%B5%AC%EB%8F%99%ED%
 https://velog.io/@lee41180612/%EC%9D%98%EC%A1%B4%EC%84%B1%EA%B3%BC-%EC%84%A4%EC%A0%95-%EA%B0%92%EC%9D%84-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%9D%B8%EC%9E%90%EB%A1%9C-%EC%A3%BC%EC%9E%85%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85
 </details>
 
+<details>
+  <summary>spring에서 spring boot로</summary>
+ https://velog.io/@lee41180612/Springboot-%EC%86%8C%EA%B0%9C
+</details>
+
+## JPA
+
+<details>
+  <summary>JPA 영속성 컨텍스트의 이점(5가지)을 설명</summary>
+  https://velog.io/@lee41180612/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%9D%B4%EC%A0%905%EA%B0%80%EC%A7%80
+</details>
+
+<details>
+  <summary>JPA Propagation 전파단계</summary>
+  https://velog.io/@lee41180612/JPA-Propagation-%EC%A0%84%ED%8C%8C%EB%8B%A8%EA%B3%84
+</details>
 
 ## 서버관련
 
