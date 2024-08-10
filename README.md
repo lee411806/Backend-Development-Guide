@@ -107,12 +107,12 @@ https://velog.io/@lee41180612/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C%EC%99%80-%EA
 
 <details>
   <summary>세마포어와 뮤텍스의 차이</summary>
-
+https://velog.io/@lee41180612/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4Mutex%EC%99%80-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4Semaphore%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
   <summary>가상 메모리</summary>
-
+https://velog.io/@lee41180612/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%ACVirtual-Memory
 </details>
 
 <details>
@@ -120,7 +120,10 @@ https://velog.io/@lee41180612/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C%EC%99%80-%EA
 
 </details>
 
+<details>
+  <summary>프로세스 관련 용어</summary>
 
+</details>
 
 
 ## 알고리즘
