@@ -176,26 +176,46 @@ https://velog.io/@lee41180612/RDBMS-vs-NOSQL
 https://velog.io/@lee41180612/Redis-%EC%99%80-Memacached%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
+<details>
+  <summary>Elastic Search란?</summary>
+
+</details>
+
 
 <details>
   <summary>MongoDB</summary>
 https://velog.io/@lee41180612/MongoDB-%EB%AA%85%EB%A0%B9%EC%96%B4
 </details>
 
+
 <details>
   <summary>CAP 이론과, Eventual Consistency에 대해</summary>
 
 </details>
 
-<details>
-  <summary>Elastic Search란?</summary>
 
-</details>
+
+
 
 <details>
   <summary>SQL 복습</summary>
 https://velog.io/@lee41180612/SQL-SQL-%EC%BD%94%ED%85%8C
 </details>
+
+### 암호학/보안
+<details>
+  <summary>비대칭키 ,대칭키 암호화</summary>
+
+</details>
+
+<details>
+  <summary>단방향 암호화</summary>
+
+</details>
+
+
+### 컴파일러
+
 
 ## 언어
 
