@@ -117,7 +117,7 @@ https://velog.io/@lee41180612/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%ACVirt
 
 <details>
   <summary>캐시의 지역성</summary>
-
+https://velog.io/@lee41180612/%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1
 </details>
 
 <details>
