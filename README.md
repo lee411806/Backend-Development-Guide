@@ -122,7 +122,13 @@ https://velog.io/@lee41180612/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%ACVirt
 
 <details>
   <summary>프로세스 관련 용어</summary>
-
+<P>PCB : 프로세스 제어 블록, 프로세스 정보 저장 및 관리</P>
+  <P>PC(PROGRAM COUNTER) : 다음에 실행할 명령어의 메모리 주소를 가리키는 CPU register</P>
+<br>
+  <p>프로세스의 순차적 실행을 관리하는 핵심요소이다.</p>
+<br>  
+  <p>캐시 메모리 : CPU와 RAM 사이에 위치한 고속 메모리, 자주 사용하는 데이터를 임시로 저장하여 CPU가 빠르게 접근할 수 있도록 한다. </p>
+  <P>CPU의 레지스터와 메모리사이의 속도차이 완화(캐시메모리가 더 빠름) -> 성능 최적화</P>
 </details>
 
 
