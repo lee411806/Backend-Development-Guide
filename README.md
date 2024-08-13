@@ -508,3 +508,10 @@ https://velog.io/@lee41180612/%EC%A0%95%ED%98%95-%EB%B0%98-%EC%A0%95%ED%98%95-%E
 </details>
 
 
+<details>
+  <summary>캐시(cache)와 세션과의 비교</summary>
+https://velog.io/@lee41180612/%EC%BA%90%EC%8B%9Ccache-%EC%84%B8%EC%85%98session
+</details>
+
+
+
