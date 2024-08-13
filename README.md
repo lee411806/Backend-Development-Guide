@@ -167,12 +167,12 @@ https://velog.io/@lee41180612/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%
 
 <details>
   <summary>정규화</summary>
-
+https://velog.io/@lee41180612/DB-%EC%A0%95%EA%B7%9C%ED%99%94
 </details>
 
 <details>
   <summary>Join에 대해</summary>
-
+https://velog.io/@lee41180612/DB-JOIN
 </details>
 
 <details>
