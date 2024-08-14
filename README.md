@@ -190,6 +190,16 @@ https://velog.io/@lee41180612/Redis-%EC%99%80-Memacached%EC%9D%98-%EC%B0%A8%EC%9
 
 </details>
 
+<details>
+  <summary>Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이</summary>
+
+</details>
+
+<details>
+  <summary>Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이</summary>
+
+</details>
+
 
 <details>
   <summary>MongoDB</summary>
