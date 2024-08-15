@@ -192,12 +192,12 @@ https://velog.io/@lee41180612/Elastic-Search%EB%9E%80
 
 <details>
   <summary>Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이</summary>
-
+https://velog.io/@lee41180612/Elastic-Search%EC%9D%98-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EA%B5%AC%EC%A1%B0%EC%99%80-RDBMS%EC%9D%98-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
   <summary>Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이</summary>
-
+https://velog.io/@lee41180612/Elastic-Search%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B2%80%EC%83%89%EA%B3%BC-RDBMS%EC%9D%98-LIKE-%EA%B2%80%EC%83%89%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
 
@@ -209,7 +209,7 @@ https://velog.io/@lee41180612/MongoDB-%EB%AA%85%EB%A0%B9%EC%96%B4
 
 <details>
   <summary>CAP 이론과, Eventual Consistency에 대해</summary>
-
+https://velog.io/@lee41180612/CAP-%EC%9D%B4%EB%A1%A0%EA%B3%BC-Eventual-Consistency%EC%97%90-%EB%8C%80%ED%95%B4
 </details>
 
 
