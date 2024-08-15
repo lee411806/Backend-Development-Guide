@@ -131,24 +131,6 @@ https://velog.io/@lee41180612/%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%
   <P>CPU가 RAM까지 갈 필요없이 캐시메모리에서 바로 데이터 읽어와서 전체적인 성능이 향상된다. </P>
 </details>
 
-
-## 알고리즘
-<details>
-  <summary>시간 복잡도</summary>
-https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
-</details>
-
-
-<details>
-  <summary>배열과 Linked List의 차이</summary>
-
-</details>
-
-<details>
-  <summary>List와 Set의 차이</summary>
-
-</details>
-
 ## DB
 <details>
   <summary>데이터베이스에서 인덱스를 사용하는 이유와 장단점</summary>
@@ -220,6 +202,65 @@ https://velog.io/@lee41180612/CAP-%EC%9D%B4%EB%A1%A0%EA%B3%BC-Eventual-Consisten
   <summary>SQL 복습</summary>
 https://velog.io/@lee41180612/SQL-SQL-%EC%BD%94%ED%85%8C
 </details>
+
+
+## 알고리즘
+<details>
+  <summary>시간 복잡도</summary>
+https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
+</details>
+
+
+<details>
+  <summary>배열과 Linked List의 차이</summary>
+
+</details>
+
+<details>
+  <summary>List와 Set의 차이</summary>
+
+</details>
+
+<details>
+  <summary>Hash Function, Hash Table</summary>
+
+</details>
+
+<details>
+  <summary>Stack, Queue</summary>
+
+</details>
+
+<details>
+  <summary>Heap, Priority Queue</summary>
+
+</details>
+
+<details>
+  <summary>Tree, Binary Tree, BST, AVL Tree</summary>
+
+</details>
+
+<details>
+  <summary>BST의 최악의 경우의 예</summary>
+
+</details>
+
+<details>
+  <summary>피보나치 수열을 코드로 구현하는 방법</summary>
+
+</details>
+
+<details>
+  <summary>DFS, BFS</summary>
+
+</details>
+
+<details>
+  <summary>정렬, 탐색</summary>
+
+</details>
+
 
 ### 암호학/보안
 <details>
