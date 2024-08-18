@@ -213,7 +213,7 @@ https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 
 <details>
   <summary>배열과 Linked List의 차이</summary>
-
+https://velog.io/@lee41180612/자료구조-배열과-Linked-List의-차이
 </details>
 
 <details>
