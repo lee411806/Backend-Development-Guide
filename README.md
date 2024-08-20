@@ -205,6 +205,7 @@ https://velog.io/@lee41180612/SQL-SQL-%EC%BD%94%ED%85%8C
 
 
 ## 알고리즘
+https://velog.io/@lee41180612/보수-계산법1의-보수-2의-보수
 <details>
   <summary>시간 복잡도</summary>
 https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
