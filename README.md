@@ -219,7 +219,7 @@ https://velog.io/@lee41180612/자료구조-배열과-Linked-List의-차이
 
 <details>
   <summary>List와 Set의 차이</summary>
-https://velog.io/@lee41180612/자료구조-배열과-Linked-list의-차이
+https://velog.io/@lee41180612/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4%EA%B3%BC-Linked-list%EC%9D%98-%EC%B0%A8%EC%9D%B4
 </details>
 
 <details>
