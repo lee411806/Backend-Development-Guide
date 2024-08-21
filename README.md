@@ -205,13 +205,13 @@ https://velog.io/@lee41180612/SQL-SQL-%EC%BD%94%ED%85%8C
 
 
 ## 알고리즘
-https://velog.io/@lee41180612/보수-계산법1의-보수-2의-보수
+
 <details>
   <summary>시간 복잡도</summary>
 https://velog.io/@lee41180612/%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 </details>
 
-
+자료구조 그림그려놓은거랑 java 자료구조 차이 확인해서 한번에 정리하기
 <details>
   <summary>배열과 Linked List의 차이</summary>
 https://velog.io/@lee41180612/자료구조-배열과-Linked-List의-차이
