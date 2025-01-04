@@ -1,5 +1,16 @@
 # Backend-Development-Guide
 
+## Spring Batch
+
+<details>
+  <summary></summary>
+
+</details>
+
+
+
+
+
 ## 네트워크
 
 
@@ -224,7 +235,8 @@ https://velog.io/@lee41180612/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%
 
 <details>
   <summary>Hash Function, Hash Table</summary>
-
+●완주하지 못한 선수<br>
+https://velog.io/@lee41180612/Hash-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98
 </details>
 
 <details>
